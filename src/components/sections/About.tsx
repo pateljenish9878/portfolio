@@ -13,13 +13,13 @@ const stats = [
   },
   {
     label: 'Projects',
-    value: '10+',
+    value: '5+',
     description: 'Full Stack Applications',
     icon: FiCode,
   },
   {
     label: 'Certifications',
-    value: '5+',
+    value: '3+',
     description: 'Professional Certifications',
     icon: FiAward,
   },
