@@ -37,7 +37,7 @@ const skills = [
     technologies: [
       { name: 'OpenAI', level: 'Advanced' },
       { name: 'Google Gemini', level: 'Advanced' },
-      { name: 'Claude', level: 'Advanced' },
+      { name: 'Claude AI', level: 'Advanced' },
       { name: 'Adobe AI', level: 'Intermediate' },
     ],
   },
