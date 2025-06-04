@@ -12,9 +12,9 @@ const skills = [
     technologies: [
       { name: 'HTML5', level: 'Advanced' },
       { name: 'CSS3', level: 'Advanced' },
+      { name: 'Tailwind CSS', level: 'Advanced' },
       { name: 'JavaScript', level: 'Advanced' },
       { name: 'React.js', level: 'Intermediate' },
-      { name: 'Tailwind CSS', level: 'Advanced' },
     ],
   },
   {
