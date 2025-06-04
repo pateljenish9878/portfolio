@@ -23,7 +23,7 @@ const socialLinks = [
   },
   {
     name: 'Phone',
-    url: 'tel:+919898989898',
+    url: 'tel:+918128607046',
     icon: FiPhone,
   },
 ]
