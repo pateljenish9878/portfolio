@@ -33,6 +33,42 @@ const projects = [
     github: 'https://github.com/pateljenish9878/Frozen-N-Fry',
     live: 'http://frozenfry.duckdns.org/',
   },
+  {
+    title: 'Minimalist E-Commerce Website',
+    subtitle: 'React.js, Redux, Firebase',
+    description: 'Minimalist is a responsive e-commerce website built with React.js and Redux, featuring dynamic product listings, category filters, and a secure cart. Integrated with APIs for real-time data and a smooth checkout experience.',
+    image: require('../images/minimalist.png'),
+    technologies: ['React', 'Redux', 'Firebase', 'Api', 'Material-UI'],
+    github: 'https://github.com/pateljenish9878/The-Minimalist',
+    live: 'https://the-minimalist-beta.vercel.app/',
+  },
+  {
+    title: 'E-Commerce API ',
+    subtitle: 'React.js, Redux, Firebase',
+    description: 'A responsive e-commerce website built with React.js and Redux, featuring dynamic product listings, category filters, and a secure cart. Integrated with APIs for real-time data and smooth checkout.',
+    image: require('../images/shopfusion.png'),
+    technologies: ['React', 'Redux', 'Firebase', 'Api', 'Material-UI'],
+    github: 'https://github.com/pateljenish9878/Shop-Fusion',
+    live: 'https://shop-fusion-rosy.vercel.app/',
+  },
+  {
+    title: 'Task Management',
+    subtitle: 'Node.js, Express, MongoDB',
+    description: 'A streamlined task management app built with Node.js, featuring categorized task lists, priority sorting, and progress tracking. Includes an admin panel for user and task management. Integrated with RESTful APIs for real-time updates and secure access control.',
+    image: require('../images/task-management.png'),
+    technologies: ['NodeJs', 'ExpressJs', 'MongoDb', 'Ejs', 'Multer', 'PassportJs'],
+    github: 'https://github.com/pateljenish9878/Task-Management',
+    live: 'https://task-management-q1sg.onrender.com/',
+  },
+  {
+  title: 'Coachina Static Website',
+  subtitle: 'HTML, CSS, JavaScript',
+  description: 'A responsive static website built using HTML, CSS, and vanilla JavaScript. Showcases a clean layout, smooth animations, and modern design principles. Deployed on Vercel for fast and reliable performance.',
+  image: require('../images/coachina.png'),
+  technologies: ['HTML', 'CSS', 'JavaScript'],
+  github: 'https://github.com/pateljenish9878/Coachina',
+  live: 'https://coachina-beta.vercel.app/',
+},
 ]
 
 export default function Projects() {
