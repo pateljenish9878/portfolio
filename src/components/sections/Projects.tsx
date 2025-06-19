@@ -34,7 +34,7 @@ const projects = [
     live: 'http://frozenfry.duckdns.org/',
   },
   {
-    title: 'Minimalist E-Commerce Website',
+    title: 'Minimalist E-Commerce API',
     subtitle: 'React.js, Redux, Firebase',
     description: 'Minimalist is a responsive e-commerce website built with React.js and Redux, featuring dynamic product listings, category filters, and a secure cart. Integrated with APIs for real-time data and a smooth checkout experience.',
     image: require('../images/minimalist.png'),
@@ -69,6 +69,16 @@ const projects = [
   github: 'https://github.com/pateljenish9878/Coachina',
   live: 'https://coachina-beta.vercel.app/',
 },
+{
+  title: 'Minimalist E-commerce',
+  subtitle: 'React.js, Redux, Firebase',
+  description: 'A clean and minimalist e-commerce website built with React.js. Features dynamic product listings, category filtering, and a secure shopping cart. Integrated with Firebase for real-time database, authentication, and smooth checkout flow. Designed with a modern UI and responsive layout for seamless shopping on any device.',
+  image: require('../images/minimalist2.png'),
+  technologies: ['React.js', 'Redux', 'Firebase', 'React Router', 'Axios', 'Context API'],
+  github: 'https://github.com/pateljenish9878/Minimalist-2',
+  live: 'https://minimalist-2.vercel.app/',
+},
+
 ]
 
 export default function Projects() {
