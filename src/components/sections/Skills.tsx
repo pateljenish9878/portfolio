@@ -53,18 +53,6 @@ const skills = [
       { name: 'Photoshop', level: 'Intermediate' },
     ],
   },
-  {
-    category: 'Soft Skills',
-    description: 'Professional skills that complement technical expertise',
-    icon: FiLayout,
-    technologies: [
-      { name: 'Problem Solving', level: 'Advanced' },
-      { name: 'Team Collaboration', level: 'Advanced' },
-      { name: 'Communication', level: 'Advanced' },
-      { name: 'Time Management', level: 'Advanced' },
-      { name: 'Adaptability', level: 'Advanced' },
-    ],
-  },
 ]
 
 export default function Skills() {
