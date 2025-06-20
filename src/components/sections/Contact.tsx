@@ -13,7 +13,7 @@ const socialLinks = [
   },
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/jenish-patel-9878/',
+    url: 'https://www.linkedin.com/in/pateljenish44/',
     icon: FiLinkedin,
   },
   {
