@@ -22,7 +22,7 @@ const projects = [
     image: require('../images/rawcips.jpg'),
     technologies: ['React', 'Redux', 'Firebase', 'Api', 'Material-UI'],
     github: 'https://github.com/pateljenish9878/Rawcips',
-    live: 'https://recipe-3606b.web.app/',
+    live: 'https://rawcips.vercel.app/',
   },
   {
     title: 'Restaurant Management System',
